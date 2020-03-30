@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="4f64bbce-2e39-4201-8ae2-075a0984d3f1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/gitTestHelloWorld/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/gitTestHelloWorld/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +37,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -46,7 +53,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585233367418</updated>
-      <workItem from="1585233368944" duration="765000" />
+      <workItem from="1585233368944" duration="4173000" />
+      <workItem from="1585322086877" duration="3773000" />
+      <workItem from="1585581569482" duration="316000" />
     </task>
     <task id="LOCAL-00001" summary="github.com added..">
       <created>1585233715229</created>
@@ -62,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585233898585</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="github.com added..">
+      <created>1585234145712</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585234145712</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -73,7 +89,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -84,18 +102,34 @@
     <option name="LAST_COMMIT_MESSAGE" value="github.com added.." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="307" y="0" key="CommitChangelistDialog2" timestamp="1585233898062">
+    <state x="307" y="0" key="CommitChangelistDialog2" timestamp="1585234145186">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="307" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1585233898062" />
-    <state x="92" y="92" width="1182" height="544" maximized="true" key="DiffContextDialog" timestamp="1585234086161">
+    <state x="307" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1585234145186" />
+    <state x="92" y="92" width="1182" height="544" maximized="true" key="DiffContextDialog" timestamp="1585234202014">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="92" y="92" width="1182" height="544" maximized="true" key="DiffContextDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1585234086161" />
+    <state x="92" y="92" width="1182" height="544" maximized="true" key="DiffContextDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1585234202014" />
     <state x="521" y="266" width="347" height="196" key="Github.CreateGistDialog" timestamp="1585233437668">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="521" y="266" width="347" height="196" key="Github.CreateGistDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1585233437668" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1585257227151">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1585257227151" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1585257227150">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1585257227150" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1585257227150">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1585257227150" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1585257227150">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1585257227150" />
     <state x="275" y="89" key="Vcs.Push.Dialog.v2" timestamp="1585233737251">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
