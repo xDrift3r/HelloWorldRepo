@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4f64bbce-2e39-4201-8ae2-075a0984d3f1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/gitTestHelloWorld/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/gitTestHelloWorld/com/company/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +54,9 @@
       <updated>1585233367418</updated>
       <workItem from="1585233368944" duration="4173000" />
       <workItem from="1585322086877" duration="3773000" />
-      <workItem from="1585581569482" duration="316000" />
+      <workItem from="1585581569482" duration="4796000" />
+      <workItem from="1585590257023" duration="9000" />
+      <workItem from="1585667617074" duration="93000" />
     </task>
     <task id="LOCAL-00001" summary="github.com added..">
       <created>1585233715229</created>
@@ -134,5 +135,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="89" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1585233737251" />
+    <state x="391" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1585590257605">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="192" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1585590257605" />
   </component>
 </project>
